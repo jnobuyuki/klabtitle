@@ -27,9 +27,11 @@ color dimColor;
 
 //setup
 void setup(){
+  //screen size
   size(1024, 768);
   background(0);
   stroke(255);
+  //boldness of a line
   strokeWeight(3);
   
   //String[] fontList = PFont.list();
